@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LitvinenkoD/e-commerce-challange-project/static/css/main.82c5cc2c.css",
-    "main.js": "/LitvinenkoD/e-commerce-challange-project/static/js/main.a0a1836e.js",
-    "static/media/bg-image.png": "/LitvinenkoD/e-commerce-challange-project/static/media/bg-image.875e4fd1680d30042609.png",
-    "index.html": "/LitvinenkoD/e-commerce-challange-project/index.html",
-    "main.82c5cc2c.css.map": "/LitvinenkoD/e-commerce-challange-project/static/css/main.82c5cc2c.css.map",
-    "main.a0a1836e.js.map": "/LitvinenkoD/e-commerce-challange-project/static/js/main.a0a1836e.js.map"
+    "main.css": "/e-commerce-challange-project/static/css/main.ec41990c.css",
+    "main.js": "/e-commerce-challange-project/static/js/main.5f424687.js",
+    "static/media/bg-image.png": "/e-commerce-challange-project/static/media/bg-image.875e4fd1680d30042609.png",
+    "index.html": "/e-commerce-challange-project/index.html",
+    "main.ec41990c.css.map": "/e-commerce-challange-project/static/css/main.ec41990c.css.map",
+    "main.5f424687.js.map": "/e-commerce-challange-project/static/js/main.5f424687.js.map"
   },
   "entrypoints": [
-    "static/css/main.82c5cc2c.css",
-    "static/js/main.a0a1836e.js"
+    "static/css/main.ec41990c.css",
+    "static/js/main.5f424687.js"
   ]
 }
