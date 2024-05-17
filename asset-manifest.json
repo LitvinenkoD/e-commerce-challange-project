@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/e-commerce-challange-project/static/css/main.ec41990c.css",
+    "main.css": "/e-commerce-challange-project/static/css/main.5c6d7d87.css",
     "main.js": "/e-commerce-challange-project/static/js/main.5f424687.js",
     "static/media/bg-image.png": "/e-commerce-challange-project/static/media/bg-image.875e4fd1680d30042609.png",
     "index.html": "/e-commerce-challange-project/index.html",
-    "main.ec41990c.css.map": "/e-commerce-challange-project/static/css/main.ec41990c.css.map",
+    "main.5c6d7d87.css.map": "/e-commerce-challange-project/static/css/main.5c6d7d87.css.map",
     "main.5f424687.js.map": "/e-commerce-challange-project/static/js/main.5f424687.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec41990c.css",
+    "static/css/main.5c6d7d87.css",
     "static/js/main.5f424687.js"
   ]
 }
